@@ -5,6 +5,7 @@ export default class Contacts extends Component {
         return (
             <div>
                 Contacts
+                <h1>yes</h1>
             </div>
         )
     }
